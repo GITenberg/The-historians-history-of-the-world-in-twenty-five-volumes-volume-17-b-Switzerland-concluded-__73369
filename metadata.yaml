@@ -1,0 +1,36 @@
+_repo: The-historians-history-of-the-world-in-twenty-five-volumes-volume-17-b-Switzerland-concluded-__73369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Williams, Henry Smith
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '698'
+    url: http://www.gutenberg.org/2009/agents/698
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Smith_Williams
+description: ''
+gutenberg_issued: '2024-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73369'
+language: en
+pgterms:marc905: 20121101134728williams
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: David Edwards and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bThe Outlook Company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The historians'' history of the world in twenty-five volumes, volume 17 :
+  $b Switzerland (concluded), Russia and Poland'
+url: http://www.gutenberg.org/ebooks/73369
