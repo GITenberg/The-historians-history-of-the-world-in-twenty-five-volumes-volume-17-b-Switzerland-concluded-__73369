@@ -1,5 +1,8 @@
 _repo: The-historians-history-of-the-world-in-twenty-five-volumes-volume-17-b-Switzerland-concluded-__73369
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73369-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/698
     wikipedia: https://en.wikipedia.org/wiki/Henry_Smith_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73369#The-historians-history-of-the-world-in-twenty-five-volumes-volume-17-b-Switzerland-concluded-_
 gutenberg_issued: '2024-04-10'
 gutenberg_type: Text
 identifiers:
